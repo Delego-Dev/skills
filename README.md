@@ -1,3 +1,13 @@
+> ⚠️ **Archived — moved into the [delego plugin](https://github.com/Delego-Dev/plugin).**
+> These skills now live in `Delego-Dev/plugin` (the single source of truth).
+> Install everything in one command:
+> ```
+> /plugin marketplace add Delego-Dev/plugin
+> /plugin install delego@delego
+> ```
+> Or à la carte: clone the plugin repo and run its `install.sh`. The content below
+> is a frozen snapshot.
+
 # delego skills
 
 Claude Code **skills** for working with [delego](https://github.com/Delego-Dev/delego)
